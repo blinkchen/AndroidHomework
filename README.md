@@ -1,0 +1,3 @@
+# AndroidHomework
+Android应用开发期末大作业
+用的facecore的api，解析json，图片压缩等...
