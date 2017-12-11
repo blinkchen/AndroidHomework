@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">安卓大作业</string>
+    <string name="activity_compare">CompareActivity</string>
+    <string name="activity_detect">DetectActivity</string>
+</resources>
